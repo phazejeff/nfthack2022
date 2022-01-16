@@ -1,3 +1,3 @@
 # nfthack2022
 
-website is hosted on github.com/phazejeff/phazejeff.github.io
+website is hosted on https://github.com/phazejeff/phazejeff.github.io
