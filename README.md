@@ -5,4 +5,4 @@ website for the demo is hosted on https://github.com/phazejeff/phazejeff.github.
 
 # nfthack2022
 
-This was a finalist in ETHGlobal's NFT hack 2022 competition
+[This was a finalist in ETHGlobal's NFT hack 2022 competition](https://showcase.ethglobal.com/nfthack2022/creativerse-minecraft-on-ethereum)
